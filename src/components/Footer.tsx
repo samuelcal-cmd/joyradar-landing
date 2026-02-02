@@ -22,7 +22,7 @@ export default function Footer() {
                 {/* Divider */}
                 <div className="mt-8 pt-6 border-t border-zinc-800">
                     <p className="text-zinc-600 text-xs">
-                        Diseñado con ❤️ para amantes de la cultura
+                        Diseñado por Samuel Cal Seoane
                     </p>
                 </div>
             </div>

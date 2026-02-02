@@ -49,7 +49,7 @@ export default function Hero() {
 
                 {/* Subtitle */}
                 <p className="text-xl md:text-2xl lg:text-3xl text-zinc-300 font-light mb-10 max-w-2xl">
-                    Descubre lo que te rodea.
+                    La ciudad que no conoces
                 </p>
 
                 {/* CTA Buttons */}
